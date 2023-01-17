@@ -8,7 +8,7 @@ import org.apache.ibatis.type.BaseTypeHandler;
 import org.apache.ibatis.type.JdbcType;
 import org.apache.ibatis.type.MappedTypes;
 import xyz.coolblog.constant.ArticleTypeEnum;
-import xyz.coolblog.model.Article;
+import xyz.coolblog.chapter4.model.Article;
 
 /**
  * ArticleTypeHandler
